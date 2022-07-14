@@ -1,5 +1,6 @@
 body{
     background: linear-gradient(yellow 25%, red 75%);
+    height: 1000px;
 }
 #heading{
     background-color: rgb(212, 255, 0);
@@ -9,4 +10,7 @@ canvas{
     border-radius: 10px;
     margin-top: 130px;
     box-shadow: 5px 5px 5px grey;
+}
+canvas{
+   margin-top: 50px;
 }
